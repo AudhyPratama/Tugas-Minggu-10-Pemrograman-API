@@ -19,4 +19,4 @@
 ##### 3. Buka file yang ingin dijalankan pada code editor anda dengan opsi "Open" lalu klik file yang ingin dibuka.
 ##### 4. Pastikan nama file yang ingin dibuka sudah benar.
 ##### 5. Pastikan anda telah membuka speech recognition untuk mendeteksi inputan suara "Windows Speech Recognition" (bisa dari windows atau aplikasi lainya)
-##### 5. Jalankan program dengan menekan tombol "Run".
+##### 6. Jalankan program dengan menekan tombol "Run".

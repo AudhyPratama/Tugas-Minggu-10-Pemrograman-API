@@ -1,14 +1,14 @@
 # Tugas-Minggu-10-Pemrograman-API
-## Implementasi penulisan Nama dan NPM menggunakan API Region dengan bahasa Visual Basic 6
+## Implementasi penulisan Nama dan NPM menggunakan Speech API dengan bahasa Visual Basic 6
 
-## Pada Program ini hanya terdapat 1 file utama yaitu "FormNamaNPM.frm" yang terhubung dengan projek "ProjectAPIRegion"
+## Pada Program ini hanya terdapat 1 file utama yaitu "Menu.frm" yang terhubung dengan projek "ProjectAPIRegion"
 
-### 1. "FormNamaNPM.frm"
+### 1. "Menu.frm"
 #### Penjelasan:
 
-##### Pada file ini menjelaskan tentang program membuat Nama dan NPM dengan konsep API Region menggunakan bahasa pemrograman Visual Basic 6.
+##### Pada file ini menjelaskan tentang program membuat Region Nama dan NPM dengan konsep Speech API menggunakan bahasa pemrograman Visual Basic 6.
 
-###### Pertama-tama buat kanvas terlebih dahulu dengan memasukan ukuran x1,y1 dan x2,y2. kemudian buat ragion untuk masing-masing huruf atau angka mulai dari "A" hingga "a" dan angka "1" hingga "3" sehingga terbentuk sebuah bentuk huruf dan angka menjadi "Audhy Brilliant Pratama" dan "19081010123"
+###### Pertama-tama buat kanvas terlebih dahulu dengan memasukan ukuran x1,y1 dan x2,y2. kemudian buat region untuk masing-masing huruf atau angka mulai dari "A" hingga "a" dan angka "1" hingga "3" sehingga terbentuk sebuah bentuk huruf dan angka menjadi "Audhy Brilliant Pratama".
 
 #### Cara menjalankan program:
 

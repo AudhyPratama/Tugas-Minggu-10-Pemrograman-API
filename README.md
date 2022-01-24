@@ -6,11 +6,11 @@
 ### 1. "Menu.frm"
 #### Penjelasan:
 
-##### Pada file ini menjelaskan tentang program membuat Region Nama dan NPM dengan konsep Speech API menggunakan bahasa pemrograman Visual Basic 6.
+##### Pada file ini menjelaskan tentang program membuat Region Nama dan NPM dengan konsep Speech API menggunakan input berdasarkan suara yang ditangkap dari system microphone bahasa pemrograman Visual Basic 6.
 
 ###### Pertama-tama buat kanvas terlebih dahulu dengan memasukan ukuran x1,y1 dan x2,y2. kemudian buat region untuk masing-masing huruf atau angka mulai dari "A" hingga "a" sehingga terbentuk sebuah bentuk huruf dan angka menjadi "Audhy Brilliant Pratama".
 
-###### Kemudian 
+###### Kemudian pisah tiap nama "Audhy", "Brilliant", "Pratama" kedalam file yang berbeda
 
 #### Cara menjalankan program:
 

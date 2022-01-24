@@ -8,7 +8,9 @@
 
 ##### Pada file ini menjelaskan tentang program membuat Region Nama dan NPM dengan konsep Speech API menggunakan bahasa pemrograman Visual Basic 6.
 
-###### Pertama-tama buat kanvas terlebih dahulu dengan memasukan ukuran x1,y1 dan x2,y2. kemudian buat region untuk masing-masing huruf atau angka mulai dari "A" hingga "a" dan angka "1" hingga "3" sehingga terbentuk sebuah bentuk huruf dan angka menjadi "Audhy Brilliant Pratama".
+###### Pertama-tama buat kanvas terlebih dahulu dengan memasukan ukuran x1,y1 dan x2,y2. kemudian buat region untuk masing-masing huruf atau angka mulai dari "A" hingga "a" sehingga terbentuk sebuah bentuk huruf dan angka menjadi "Audhy Brilliant Pratama".
+
+###### Kemudian 
 
 #### Cara menjalankan program:
 
